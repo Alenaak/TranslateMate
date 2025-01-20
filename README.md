@@ -19,7 +19,7 @@ TranslateMate is an Android app that leverages Firebase ML Translation Kit to pr
 
 ### Language Selection
 - Users can choose from a variety of languages for both source and target languages, with an easy-to-navigate language picker interface.
-- 
+  
 ### Text Translation
 - Once the text is entered and the languages are selected, the app immediately returns the translated text, offering near-instant results.
 
